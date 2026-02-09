@@ -1,16 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Front-End%20Developer!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Rajiur%20Rahman&descAlignY=55&descAlign=50" alt="header" width="100%" />
-</div>
+
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rajiur-rahman-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://www.facebook.com/Rajiur250530">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-  </a>
-  <a href="https://www.instagram.com/mr.rj250530/">
-    <img src="<div align="center">
+  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Front-End%20Developer!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Rajiur%20Rahman&descAlignY=55&descAlign=50" alt="header" width="100%" />
 </div>
 
