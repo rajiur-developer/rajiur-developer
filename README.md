@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Rajiur%20Rahman&descAlignY=55&descAlign=50" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Front-End%20Developer!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Rajiur%20Rahman&descAlignY=55&descAlign=50" alt="header" width="100%" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3597D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Architect;Open+Source+Enthusiast;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3597D4&center=true&vCenter=true&width=435&lines=Front-End+Developer;Responsive+UI+Design;Happy+Coding;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ruby,dotnet,firebase,aws,circleci,kubernetes,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=5" />
 </div>
 
 <br>
@@ -42,17 +42,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000" alt="Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=buefy&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </picture>
 
   <br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=tokyonight&hide_border=true&background=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=buefy&hide_border=true&background=00000000">
-    <img src="https://streak-stats.demolab.com?user=rajiur-developer&theme=buefy&hide_border=true&background=00000000" alt="Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=radical&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=buefy&hide_border=true&border_radius=10">
+    <img src="https://streak-stats.demolab.com?user=rajiur-developer&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -61,9 +61,9 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajiur-developer/rajiur-developer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajiur-developer/rajiur-developer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajiur-developer/rajiur-developer/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
