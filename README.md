@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Rajiur%20Rahman&descAlignY=55&descAlign=50" alt="header" width="100%" />
+</div>
 
-<!--
-**rajiur-developer/rajiur-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajiur-rahman-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/Rajiur250530">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://www.instagram.com/mr.rj250530/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3597D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Architect;Open+Source+Enthusiast;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=rajiur-developer&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,ruby,dotnet,firebase,aws,circleci,kubernetes,docker,linux&perline=10" />
+</div>
+
+<br>
+
+<h3 align="center">🔥 GitHub Stats</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajiur-developer&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000" alt="Stats" />
+  </picture>
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=tokyonight&hide_border=true&background=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rajiur-developer&theme=buefy&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com?user=rajiur-developer&theme=buefy&hide_border=true&background=00000000" alt="Streak" />
+  </picture>
+</div>
+
+<br>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/rajiur-developer/rajiur-developer/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajiur-developer.rajiur-developer&" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
